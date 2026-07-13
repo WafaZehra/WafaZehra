@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fraunces&size=28&pause=1200&color=6B4E3D&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Wafa+Zehra;Computer+Science+%E2%80%93+Data+Science+Undergrad;Turning+messy+data+into+systems+that+make+sense." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fraunces&size=28&pause=1200&color=6B4E3D&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Wafa+Zehra;Computer+Science+%E2%80%93+Data+Science+Undergraduate;Turning+messy+data+into+systems+that+make+sense." alt="Typing SVG" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm a Computer Science undergraduate on the **Data Science track**, with hands-on experience across applied machine learning, full-stack web development, and network engineering. I enjoy working on complete systems — from data pipelines and model training to interfaces people actually use — with an emphasis on clean architecture, thorough testing, and clear documentation.
+I'm a Computer Science undergraduate on the **Data Science track**, with hands-on experience across applied machine learning, full-stack web development and network engineering. I enjoy working on complete systems, from data pipelines and model training to interfaces people actually use, with an emphasis on clean architecture, thorough testing and clear documentation.
 
 ---
 
